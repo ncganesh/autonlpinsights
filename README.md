@@ -14,7 +14,8 @@ from the (Url/Plain Text/PDF Files ) and helps to visualize them (EDA) with one 
 
 ## Installation
 
-    pip install autonlpinsights
+    git clone https://github.com/ncganesh/autonlpinsights
+    pip install -r requirements.txt
 
 ## Visualization
 
