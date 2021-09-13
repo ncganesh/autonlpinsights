@@ -54,16 +54,6 @@ nlpinsight.get_summary_table()
 
 nlpinsight.visualize_topics(num_topics=3)
 ```
-
-## Meta Data
- ######Returns dictionary with all (Named Entities,Sentiments,Summary,KeyPhrases,Topics)  
-```python
-from autonlpinsights import nlpinsights
-url = 'https://www.cnbc.com/2021/08/06/doximity-social-network-for-doctors-full-of-antivax-disinformation.html'
-nlpinsight = nlpinsights(url)
-# Returns dictionary with all (Named Entities,Sentiments,Summary,KeyPhrases,Topics)  
-nlpinsight.get_full_nlpinsights()
-
 ```
 
 Note:
