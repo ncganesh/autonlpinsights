@@ -56,11 +56,6 @@ nlpinsight.visualize_topics(num_topics=3)
 ```
 ```
 
-# Applications
-
-NLPInsightsDash - https://github.com/ncganesh/nlpinsightsdashapp
-StockMarketInsights - https://stockmarketinsights.herokuapp.com/
-
 
 Note:
 This is still in initial phase of Developement and will be adding more features soon
